@@ -1,0 +1,5 @@
+assets/*.zip
+mysql/*
+config/*
+html/*
+.env
